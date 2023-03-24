@@ -1,5 +1,5 @@
 # Terrarium-2023
-![Terrarium Image](./image/terrario.webp)
+![Terrarium Image](./images/terrario.webp)
 
 ## Descripción
 Proyecto de la clase de programación web orientado a practicar las bases del codigo HTML + CSS + JS ❤
@@ -7,7 +7,7 @@ Proyecto de la clase de programación web orientado a practicar las bases del co
 ## Autor
 
 <img
-src = "./image/glow.jpg"
+src = "./images/glow.jpg"
 alt = "Dira Jimenez"
 width = "200"
 />
