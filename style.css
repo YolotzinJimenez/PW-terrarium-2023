@@ -1,4 +1,4 @@
-/* Estilo terrario */
+/* Estilo terrarioooo */
 /* selector de etiqueta */
 h1{
     color:blueviolet;
@@ -11,9 +11,6 @@ h1{
     top: 0px;
     position: absolute;
     padding: 10px;
-    border: 3px;
-    border-color: bisque;
-    border-style: dashed;
 }
 
 #left-container{
@@ -28,9 +25,6 @@ h1{
    position: relative;
    height: 13%;
    left: -10px;
-   border: 3px;
-   border-color: rgb(149, 216, 247);
-   border-style: dashed;
 }
 
 .plant{
@@ -38,4 +32,69 @@ h1{
    max-width: 150%;
    max-height: 150%;
    z-index: 2;
+}
+
+.jar-walls{
+   height: 80%;
+   width: 60%;
+   background-color: #d1e1df4b;
+   border-radius: 1rem;
+   position: absolute;
+   left: 20%;
+   bottom: 0.5%;
+   opacity: 0.5;
+}
+
+.jar-top{
+   height: 5%;
+   width: 50%;
+   position: absolute;
+   background: #d1e1df;
+   border-radius: 0.5rem 0.5rem 0rem 0rem;
+   opacity: 0.8;
+   left: 25%;
+   bottom: 80.5%;
+}
+
+.jar-glossy-long{
+   height: 5%;
+   width: 3%;
+   position: absolute;
+   background: #a3c1c9;
+   border-radius: 0.5rem 0.5rem 0.5rem 0.5rem;
+   opacity: 10;
+   left: 5%;
+   bottom: 45%;
+}
+ .jar-glossy-short{
+   height: 25%;
+   width: 3%;
+   position: absolute;
+   background: #a3c1c9;
+   border-radius: 0.5rem 0.5rem 0.5rem 0.5rem;
+   opacity: 10;
+   left: 5%;
+   bottom: 15%;
+ }
+
+.jar-bottom{
+   width: 50%;
+   height: 2%;
+   background: #d1e1df;
+   position: absolute;
+   bottom: -1.5%;
+   left: 25%;
+   opacity: 0.7;
+   z-index: -3;
+}
+
+.dirt{
+   position: absolute;
+   height: 8%;
+   width: 60%;
+   left: 20%;
+   bottom: 0.5%;
+   background: #38211a;
+   border-radius: 0rem 0rem 1rem 1rem;
+   z-index: -1;
 }
