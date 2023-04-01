@@ -37,7 +37,7 @@ h1{
 .jar-walls{
    height: 80%;
    width: 60%;
-   background-color: #d1e1df4b;
+   background-color: #d5f1f2;
    border-radius: 1rem;
    position: absolute;
    left: 20%;
@@ -49,7 +49,7 @@ h1{
    height: 5%;
    width: 50%;
    position: absolute;
-   background: #d1e1df;
+   background: #cfecee;
    border-radius: 0.5rem 0.5rem 0rem 0rem;
    opacity: 0.8;
    left: 25%;
@@ -60,8 +60,8 @@ h1{
    height: 5%;
    width: 3%;
    position: absolute;
-   background: #a3c1c9;
-   border-radius: 0.5rem 0.5rem 0.5rem 0.5rem;
+   background: #fefefa;
+   border-radius: 1rem 1rem 1rem 1rem;
    opacity: 10;
    left: 5%;
    bottom: 45%;
@@ -70,8 +70,8 @@ h1{
    height: 25%;
    width: 3%;
    position: absolute;
-   background: #a3c1c9;
-   border-radius: 0.5rem 0.5rem 0.5rem 0.5rem;
+   background: #fefefa;
+   border-radius: 4rem 4rem 4rem 4rem;
    opacity: 10;
    left: 5%;
    bottom: 15%;
